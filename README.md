@@ -1,0 +1,1 @@
+# Sentimental_analysis_from_text
